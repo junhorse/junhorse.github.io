@@ -83,18 +83,22 @@
   },
   {
     "id": "summary",
-    "kind": "AI Agents · Study",
+    "kind": "AI · Study · Web",
     "title": "소아과 써머리",
     "sub": "Lecture Summary Team",
-    "summary": "강의 자료를 넣으면 에이전트 팀이 시험용 써머리를 만들어 주는 파이프라인. 누구나 자료를 끌어다 넣는 웹 서비스로 옮기는 중입니다.",
+    "summary": "강의 자료(PDF·PPT·필기·녹취)를 끌어다 놓으면 시험용 써머리를 만들어 주는 사이트. 로컬 에이전트 팀으로 쓰던 작성 규칙을 웹으로 옮겼습니다.",
     "points": [
-      "A~E 다섯 역할의 에이전트가 추출·정리·서식·검수를 나눠 맡습니다.",
-      "금지 목록과 도메인 지식을 쌓아 같은 실수를 반복하지 않게 합니다."
+      "자료 종류(PPT·교재 / 필기 / 녹취)를 나눠 받고, 구성 잡기 → 써머리 쓰기 과정을 실시간으로 보여 줍니다.",
+      "에이전트 팀이 쌓아 온 금지 목록과 서식 규칙(처방명은 필기 기준, 녹취 말투 금지, 한자 독음 등)을 그대로 지킵니다.",
+      "결과는 화면에서 바로 보고 .md·.docx로 받습니다. 긴 작업은 끊기기 전에 저장하고 이어 씁니다."
     ],
     "stack": [
-      "Claude Code",
-      "Sub-agents"
+      "Next.js",
+      "TypeScript",
+      "Claude API",
+      "Supabase Storage",
+      "Vercel"
     ],
-    "status": "In Development"
+    "status": "Beta"
   }
 ]

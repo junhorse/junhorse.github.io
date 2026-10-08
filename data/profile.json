@@ -1,0 +1,101 @@
+{
+  "nameKr": "김준호",
+  "nameEn": "KIMJUNHO",
+  "role": "Korean Medicine · Builder",
+  "status": "한의대 본과 3학년",
+  "photo": "img/hero.webp",
+  "headline": "한의학을 공부하면서,<br>필요한 도구는 직접 만듭니다",
+  "intro": "강의를 3D로 펼쳐 보는 해부학 뷰어, 과제·식단·알림을 알아서 챙기는 하루 비서, 콘텐츠를 만드는 AI 에이전트 팀까지. 제가 매일 쓰는 것부터 만들고, 쓰면서 고칩니다.",
+  "meta": [
+    {
+      "k": "Based in",
+      "v": "KR"
+    },
+    {
+      "k": "Focus",
+      "v": "한의학 × 소프트웨어"
+    },
+    {
+      "k": "Now",
+      "v": "본과 3학년"
+    }
+  ],
+  "marquee": [
+    "한의학",
+    "KOREAN MEDICINE",
+    "3D ANATOMY",
+    "AI AGENTS",
+    "직접 쓰는 도구",
+    "NEXT.JS",
+    "SUPABASE",
+    "THREE.JS",
+    "AUTOMATION",
+    "끝까지 고친다"
+  ],
+  "tmi": [
+    {
+      "k": "운동",
+      "v": "보디빌딩. WNGP CHEONAN 무대에 섰습니다"
+    },
+    {
+      "k": "식단",
+      "v": "하루 네 끼. 탄단지는 자비스가 계산합니다"
+    },
+    {
+      "k": "한 주",
+      "v": "화요일 수업, 토요일 실습"
+    },
+    {
+      "k": "일하는 법",
+      "v": "AI 에이전트 팀과 같이 만듭니다"
+    }
+  ],
+  "experience": [
+    {
+      "when": "현재",
+      "title": "가천대학교 한의과대학 · 본과 3학년",
+      "desc": "수업과 실습을 들으면서, 공부에 필요한 도구를 직접 만들고 있습니다."
+    },
+    {
+      "when": "2026",
+      "title": "재활 3D 해부학 베타 운영",
+      "desc": "물리치료·재활 전공생 대상 베타. 가입·통계 동의·의견함까지 직접 운영합니다."
+    },
+    {
+      "when": "2026",
+      "title": "AI 콘텐츠 팀 설계·운영",
+      "desc": "블로그·인스타그램·유튜브 콘텐츠를 만드는 에이전트 팀을 설계하고, 사무실 화면으로 지켜봅니다."
+    },
+    {
+      "when": "2026",
+      "title": "자비스 개발",
+      "desc": "학교 사이버캠퍼스와 연결된 하루 관리 앱. 매일 씁니다."
+    },
+    {
+      "when": "동아리",
+      "title": "의료봉사 동아리 품 · 의료차트 개발",
+      "desc": "봉사 현장의 진료 기록을 웹으로 옮기고, 본진 중 AI 처방 추천을 붙였습니다."
+    }
+  ],
+  "awards": [
+    {
+      "when": "Stage",
+      "title": "WNGP CHEONAN 출전",
+      "desc": "보디빌딩 대회 무대에 섰습니다."
+    }
+  ],
+  "about": "진료실에서, 강의실에서, 그리고 제 하루에서 불편한 게 보이면 그걸 고치는 도구를 만듭니다. 혼자 기획하고, 만들고, 배포하고, 직접 써 봅니다.",
+  "contact": [
+    {
+      "k": "GitHub",
+      "v": "github.com/junhorse",
+      "href": "https://github.com/junhorse"
+    }
+  ],
+  "aboutPhoto": "img/about.webp",
+  "awardsPhoto": {
+    "src": "img/stage.webp",
+    "alt": "WNGP CHEONAN 무대",
+    "cap": "WNGP CHEONAN · Photo by MF Fitness Media"
+  }
+}
